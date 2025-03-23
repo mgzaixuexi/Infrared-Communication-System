@@ -1,0 +1,15 @@
+Record=SheetSymbol|SourceDocument=红外数字加模拟接收机.SchDoc|Designator=U_电源部分|SchDesignator=U_电源部分|FileName=电源部分.SchDoc|SymbolType=Normal|RawFileName=电源部分.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=红外数字加模拟接收机.SchDoc|Designator=U_红外接收|SchDesignator=U_红外接收|FileName=红外接收.SchDoc|SymbolType=Normal|RawFileName=红外接收.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=红外数字加模拟接收机.SchDoc|Designator=U_模拟部分|SchDesignator=U_模拟部分|FileName=模拟部分.SchDoc|SymbolType=Normal|RawFileName=模拟部分.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=红外数字加模拟接收机.SchDoc|Designator=U_数字部分|SchDesignator=U_数字部分|FileName=数字部分.SchDoc|SymbolType=Normal|RawFileName=数字部分.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=红外数字加模拟接收机.SchDoc|Designator=U_同向2倍放大|SchDesignator=U_同向2倍放大|FileName=同向2倍放大.SchDoc|SymbolType=Normal|RawFileName=同向2倍放大.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=数字部分.SchDoc|Designator=U_51 最小系统|SchDesignator=U_51 最小系统|FileName=51 最小系统.SchDoc|SymbolType=Normal|RawFileName=51 最小系统.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=数字部分.SchDoc|Designator=U_LCD1602液晶显示|SchDesignator=U_LCD1602液晶显示|FileName=LCD1602液晶显示.SchDoc|SymbolType=Normal|RawFileName=LCD1602液晶显示.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=数字部分.SchDoc|Designator=U_比较器|SchDesignator=U_比较器|FileName=比较器.SchDoc|SymbolType=Normal|RawFileName=比较器.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=数字部分.SchDoc|Designator=U_峰值检波|SchDesignator=U_峰值检波|FileName=峰值检波.SchDoc|SymbolType=Normal|RawFileName=峰值检波.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=数字部分.SchDoc|Designator=U_同向10倍放大|SchDesignator=U_同向10倍放大|FileName=同向10倍放大.SchDoc|SymbolType=Normal|RawFileName=同向10倍放大.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=数字部分.SchDoc|Designator=U_同向100倍放大|SchDesignator=U_同向100倍放大|FileName=同向100倍放大.SchDoc|SymbolType=Normal|RawFileName=同向100倍放大.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=数字部分.SchDoc|Designator=U_窄带滤波60K|SchDesignator=U_窄带滤波60K|FileName=窄带滤波60K.SchDoc|SymbolType=Normal|RawFileName=窄带滤波60K.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=模拟部分.SchDoc|Designator=U_功放TDA2030|SchDesignator=U_功放TDA2030|FileName=功放TDA2030.SchDoc|SymbolType=Normal|RawFileName=功放TDA2030.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=模拟部分.SchDoc|Designator=U_音频滤波|SchDesignator=U_音频滤波|FileName=音频滤波.SchDoc|SymbolType=Normal|RawFileName=音频滤波.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=红外数字加模拟接收机.SchDoc

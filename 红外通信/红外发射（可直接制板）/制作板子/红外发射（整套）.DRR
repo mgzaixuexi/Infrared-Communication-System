@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 红外发射（整套）.PcbDoc   2015/5/24 星期日  上午 11:32:27
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 红外发射（整套）.TXT
+EIA File   : 红外发射（整套）.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.762mm (30mil)          Round          10               7369.29 mm (290.13 Inch)
+T2        0.85mm (33.465mil)       Round          34               7575.67 mm (298.25 Inch)
+T3        0.889mm (35mil)          Round          48               7528.14 mm (296.38 Inch)
+T4        0.9mm (35.433mil)        Round          22               7488.22 mm (294.81 Inch)
+T5        3.4mm (133.858mil)       Round          4                7470.20 mm (294.10 Inch)
+---------------------------------------------------------------------------
+Totals                                            118              37431.53 mm (1473.68 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

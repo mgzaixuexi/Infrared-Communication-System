@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[红外发射（整套）.TXT]
+   Generated File[红外发射（整套）.DRL]
+   Generated File[红外发射（整套）.LDP]
+   Generated File[红外发射（整套）.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 上午 11:32:27 On 2015/5/24 星期日

@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\win7我的文档-桌面-收藏夹\Desktop\红外发射\制作板子\红外发射（整套）.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=1
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=0.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

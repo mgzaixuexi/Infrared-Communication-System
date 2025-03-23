@@ -1,0 +1,40 @@
+*************************************************************
+FileName = 红外发射（整套）.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Layer
+      File : 红外发射（整套）.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : 红外发射（整套）.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D24
+*************************************************************
+
